@@ -13,3 +13,5 @@ The Census of India has been conducted 15 times, As of 2011. It has been conduct
 This repository consists of the following :
 
 I've used various SQL techniques such as Joins, Sub-queries, CTEs, Text functions and so on to analyze the data.
+
+Census2011.sql
