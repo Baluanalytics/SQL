@@ -1,10 +1,10 @@
-SQL Case Study 2: Human Resources by the Data in Motion LLC
+**SQL Case Study 2: Human Resources**
+
+I've successfully solved the SQL Case Study 2: Human Resources, provided by Data In Motion, LLC
 
 This case study utilizes intermediate and advanced SQL
 
-I have solved the below questions from case study 
-
-Questions:
+**Questions:**
 
 1. Find the longest ongoing project for each department.
 
