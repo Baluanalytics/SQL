@@ -1,4 +1,4 @@
-SQL Case Study 1: Tiny Shop Sales
+**SQL Case Study 1: Tiny Shop Sales**
 
 I've successfully solved the SQL Case Study 1: Tiny Shop Sales, provided by Data In Motion, LLC
 
