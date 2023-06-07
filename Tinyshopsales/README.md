@@ -2,7 +2,7 @@
 
 I've successfully solved the SQL Case Study 1: Tiny Shop Sales, provided by Data In Motion, LLC
 
-To successfully answer all the questions you should have been exposed to the following areas of SQL:
+To successfully answer all the questions we should have been exposed to the following areas of SQL:
 
 Basic aggregations
 CASE WHEN statements
