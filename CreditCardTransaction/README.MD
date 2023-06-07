@@ -1,4 +1,4 @@
-#Credt_Card Transaction in SQL
+**#Credt_Card Transaction in SQL**
 
 In this project, I've used intermediate to advanced level SQL queries to explore the credit card transactions dataset.
 
@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-hab
 import the dataset in sql server with table name : credit_card_transcations
 
 
-I've used various SQL techniques such as Joins, Sub-queries, CTEs, Text functions and so on to analyze the data.
+**I've used various SQL techniques such as Joins, Sub-queries, CTEs, Text functions and so on to analyze the data.**
 
 I have solved below questions:
 
