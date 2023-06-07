@@ -4,6 +4,16 @@ I've successfully solved the SQL Case Study 2: Human Resources, provided by Data
 
 This case study utilizes intermediate and advanced SQL
 
+**Function used to solve the questions: **-
+
+Date functions
+Sub queries
+Multi-Tables Joins
+Where clause
+Common Table Expression (CTE)
+Window functions - RANK (), LEAD()
+
+
 **Questions:**
 
 1. Find the longest ongoing project for each department.
